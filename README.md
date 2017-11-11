@@ -19,6 +19,7 @@ Windows
 
 Linux
 
+以Ubuntu16.04为例。
 - 打开终端`cd`到下载目录，输入`$tar -zxvf V-REP_PRO_EDU_V3_4_0_Linux.tar.gz`解压*V-REP_PRO_EDU_V3_4_0_Linux.tar.gz*文件。进入VREP目录，输入`$./vrep.sh`即可打开VREP。
 - 在终端输入`$gedit ~/.bashrc`，在末尾添加
 `alias vrep="<vrep folder path>/vrep.sh"`并保存，随后在终端输入`$source ~/.bashrc`。
