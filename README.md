@@ -29,17 +29,22 @@ Linux
 包含了VREP的安装bash，可通过此bash安装，也可以通过上边的介绍手动安装。
 
 ---
-# VREP教程
-本教程使用VREP 3.4版本。教程中初次提到的操作会详细描述，多次提到的操作将简略说明。
+# VREP基础
+本教程使用VREP 3.4版本。
+通过这部分的实例，可以快速了解VREP的基础操作。
+教程中初次提到的操作会详细描述，多次提到的操作将简略说明。
 
 **Note**: 这部分整理自bit的VREP教学视频，
 视频使用的VREP版本过早，但依然具有参考价值。
 百度云[下载链接](https://pan.baidu.com/s/1jIMPSsm)，密码: 8und。
 
-## [教程1-1]
+## [教程1-1](https://github.com/friedrichBIT/vrep_tutorial/tree/master/demo1-1)
 - 搭建小车。添加车体车轮，添加和设置转向关节。
 - 编写控制脚本，实现用键盘方向键对小车进行运动控制。
 
-## [教程1-2]
+## [教程1-2](https://github.com/friedrichBIT/vrep_tutorial/tree/master/demo1-2)
 - 观察小车运动轨迹。观察小车速度。
 - 传感器的使用。视觉传感器、距离传感器、激光雷达。
+
+
+# 可视化模型和场景
