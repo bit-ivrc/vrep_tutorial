@@ -50,7 +50,7 @@ Linux
 
 # 2 可视化模型和场景
 
-## [教程2-1]()
+## [教程2-1](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo2-1)
 介绍VREP贴图相关操作，利用VREP的贴图可以制作出丰富的场景。
 - VREP贴图相关操作。
 - 制作交通标志牌。
