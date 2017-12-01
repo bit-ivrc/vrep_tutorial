@@ -68,7 +68,7 @@
 - 选择Vehicle，点击菜单栏的*Add > Associated child script > Threaded*。
 - 双击Vehicle右侧的图标，编写lua控制脚本。
 本教程提供了一个lua
-[脚本](https://github.com/friedrichBIT/vrep_tutorial/blob/master/demo1-1/script/script.txt)，
+[脚本](https://github.com/bit-ivrc/vrep_tutorial/blob/master/demo1-1/script/script.txt)，
 将内容粘贴进去即可。
 - **开始仿真**，可以用键盘方向键控制小车运动。
 

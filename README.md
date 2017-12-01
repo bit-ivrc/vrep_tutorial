@@ -39,11 +39,11 @@ Linux
 视频使用的VREP版本过早，但依然具有参考价值。
 百度云[下载链接](https://pan.baidu.com/s/1jIMPSsm)，密码: 8und。
 
-## [教程1-1](https://github.com/friedrichBIT/vrep_tutorial/tree/master/demo1-1)
+## [教程1-1](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo1-1)
 - 搭建小车。添加车体车轮，添加和设置转向关节。
 - 编写控制脚本，实现用键盘方向键对小车进行运动控制。
 
-## [教程1-2](https://github.com/friedrichBIT/vrep_tutorial/tree/master/demo1-2)
+## [教程1-2](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo1-2)
 - 观察小车运动轨迹。观察小车速度。
 - 传感器的使用。视觉传感器、距离传感器、激光雷达。
 
@@ -54,11 +54,15 @@ Linux
 介绍VREP贴图相关操作，利用VREP的贴图可以制作出丰富的场景。
 - VREP贴图相关操作。
 - 制作交通标志牌。
+
+## [教程2-2](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo2-2)
+Solidworks绘制车辆模型，并将车辆模型导入VREP中。
+- 从Solidworks导出STL文件。
+- 将STL文件导入VREP。
+- 调整各模型实体的位置和颜色并添加关节(joint)。
+- 添加脚本。
 ---
 （以下待更新）
-
-## [教程2-2]()
-车辆模型
 
 ## [教程2-3]()
 场景环境
