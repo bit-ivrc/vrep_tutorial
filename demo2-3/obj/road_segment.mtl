@@ -1,0 +1,38 @@
+# Blender MTL File: 'road_segment.blend'
+# Material Count: 3
+
+newmtl road
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../texture/bksid_11.jpg
+map_Bump ../texture/nr_05B.jpg
+
+newmtl road_nr_05B.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../texture/nr_05B.jpg
+map_Bump ../texture/nr_05B.jpg
+
+newmtl sidewalk
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../texture/bksid_11.jpg
+map_Bump ../texture/bksid_11.jpg
