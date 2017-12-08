@@ -61,11 +61,16 @@ Solidworks绘制车辆模型，并将车辆模型导入VREP中。
 - 将STL文件导入VREP。
 - 调整各模型实体的位置和颜色并添加关节(joint)。
 - 添加脚本。
+
+## [教程2-3](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo2-3)
+使用三维建模软件绘制道路并导入VREP形成可用的道路。教程中绘制道路模型的三维软件为Blender。
+- Blender的安装。
+- Blender的使用基础。
+- 使用Blender绘制道路模型。
+- 将道路模型导入VREP中形成可以仿真的道路。
+- 模块化道路场景搭建。
 ---
 （以下待更新）
-
-## [教程2-3]()
-场景环境
 
 ## [教程2-4]()
 场景环境
