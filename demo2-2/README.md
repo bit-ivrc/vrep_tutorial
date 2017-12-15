@@ -3,7 +3,7 @@
 
 **Note**: Solidworks曲线和曲面命令是车身和轮胎三维建模过程中经常用到的命令。完成的车身三维模型为`body.SLDPRT`,完成的轮胎三维模型为`wheel.STDPRT`。
 
-## Solidworks
+## 1 Solidworks
 Solidworks软件方面，假设已经完成了车身和轮胎的三维建模，得到了车身和轮胎的工程文件`body.SLDPRT`和`wheel.STDPRT`。
 - 使用Solidworks打开`body.SLDPRT`，进入“过滤实体模式”，分别选择车身的各个实体，点击*文件 > 另存为*，把个实体另存为STL格式文件。
 - 同样，将轮胎模型`wheel.STDPRT`各实体也另存为STL格式文件。
@@ -11,7 +11,7 @@ Solidworks软件方面，假设已经完成了车身和轮胎的三维建模，�
 
 **Note**: STL格式的选项中，可以选择输出二进制或者ASCII，两种格式都可以。调节品质可调整输出精度，不宜过大，一般选择默认的*粗糙* 即可。
 
-## VREP
+## 2 VREP
 把上面得到的STL文件倒入进VREP，更改各部分位置和颜色，添加关节(joint)。
 - 点击菜单栏的*File > Import  > Mesh* 选择上面生成的各个STL文件。在弹出的对话框中，*Mesh scaling* 表示放大比例，可以根据需要选择；有的三维建模软件采用Z轴向上，有的采用y轴向上，在*Mesh Orientation* 中对应选择。
 - `wheelhub.STL`和`tyre.STL`组成车轮，共有四个车轮。`frame.STL`, `lamp.STL`, `lampshade.STL`和`windows.STL`组成车身body。
