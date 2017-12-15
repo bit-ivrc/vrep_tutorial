@@ -75,9 +75,3 @@ Solidworks绘制车辆模型，并将车辆模型导入VREP中。
 - 使用Blender绘制盘山公路。
 - 将盘山公路导入VREP，并将公路变为仿真实体。
 - 添加小车进行仿真。
-
-# 3 VREP的外部接口
-## [教程3-1](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo3-1)
-介绍VREP的ROS接口和使用。
-- 配置ROS接口。
-- 仿真实例。
