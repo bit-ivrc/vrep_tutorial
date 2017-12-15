@@ -69,8 +69,15 @@ Solidworks绘制车辆模型，并将车辆模型导入VREP中。
 - 使用Blender绘制道路模型。
 - 将道路模型导入VREP中形成可以仿真的道路。
 - 模块化道路场景搭建。
----
-（以下待更新）
 
-## [教程2-4]()
-场景环境
+## [教程2-4](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo2-4)
+制作盘山公路，使用教程1-1中的小车进行仿真。
+- 使用Blender绘制盘山公路。
+- 将盘山公路导入VREP，并将公路变为仿真实体。
+- 添加小车进行仿真。
+
+# 3 VREP的外部接口
+## [教程3-1](https://github.com/bit-ivrc/vrep_tutorial/tree/master/demo3-1)
+介绍VREP的ROS接口和使用。
+- 配置ROS接口。
+- 仿真实例。
