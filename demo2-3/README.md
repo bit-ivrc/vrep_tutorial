@@ -1,6 +1,6 @@
 # 教程2-3
 本教程介绍三维建模软件Blender的安装和使用。使用Blender绘制道路模型，并将其导入VREP中形成可以进行仿真的道路。  
-图片素材、中将过程文件及完成文件均可在文件夹demo2-3/下找到。教程用到的图片素材 在demo2-3/texture/下获得，更多素材可访问[网盘]( https://pan.baidu.com/s/1eS700Ye)下载，提取码: upkx，**资源仅供学习交流，侵删**。中间文件 ，Blender文件`road_segment.blend`在demo2-3/blender/下，OBJ文件`road_segment.obj`在demo2-3/obj/下。教程完成文件`demo2-3.ttm`，在文件夹demo2-3/下可以获得。
+图片素材、中将过程文件及完成文件均可在文件夹demo2-3/下找到。教程用到的图片素材 在demo2-3/texture/下获得，更多素材和模型可在demo2-3/other目录下找到。中间文件 ，Blender文件`road_segment.blend`在demo2-3/blender/下，OBJ文件`road_segment.obj`在demo2-3/obj/下。教程完成文件`demo2-3.ttm`，在文件夹demo2-3/下可以获得。
 
 **Note**: 本例通过obj格式文件与VREP进行文件交互，与STL格式文件相比，增加了模型的texture属性。
 
